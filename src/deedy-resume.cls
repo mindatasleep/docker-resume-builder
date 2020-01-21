@@ -26,6 +26,8 @@
 %	FONTS
 %----------------------------------------------------------------------------------------
 
+\usepackage{lmodern}% http://ctan.org/pkg/lm Enable font sizes
+
 \usepackage{fontspec} % Required for specifying custom fonts in XeLaTeX
 
 \setmainfont[Color=primary, Path = fonts/lato/,BoldItalicFont=Lato-RegIta,BoldFont=Lato-Reg,ItalicFont=Lato-LigIta]{Lato-Lig} % The primary font for content text; defines bold, italic and bold-italic as well
