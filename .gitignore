@@ -1,0 +1,7 @@
+reference/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*_sample.tex
